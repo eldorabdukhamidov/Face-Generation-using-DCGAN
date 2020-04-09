@@ -14,7 +14,7 @@ In this project, you can define and train a DCGAN on a dataset of faces. The mai
 - **Pickle** - the standard way of serializing objects in Python.
 
 ## Download Datasets
-Download [CelebFaces Attributes Dataset (CelebA)](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip). This is a zip file that you'll need to extract in the home directory of this notebook for further loading and processing. After extracting the data, you should be left with a directory of data *processed_celeba_small/*
+Download [CelebFaces Attributes Dataset (CelebA)](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip). Extract the file in the home directory of this notebook for further loading and processing. After extracting the data, you should be left with a directory of data *processed_celeba_small/*
 
 ## Instruction
 
