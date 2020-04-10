@@ -2,13 +2,13 @@
 
 ## Face Generation using Deep Convolutional Generative Adversarial Network
 
-In this project, you can define and train a DCGAN on a dataset of faces. The main goal is to get a generator network to generate new images of faces that look as realistic as possible! The project is broken down into parts from loading in data to defining and training adversarial networks. 
+In this project, you can define and train a DCGAN on a dataset of faces. The main goal is to get a generator network to generate new images of faces that look as realistic as possible! The project is broken down into sections from loading in data to defining and training adversarial networks. 
 
 ## Libraries utilized
 
 - **NumPy** - a fundamental package for scientific computing in python
 - **Pandas** - an ease-to-use python library for manipulating data structures and performing data analysis
-- **Jupyter Notebook** - tool that allows the creation of documents with live code
+- **Jupyter Notebook** - a tool that allows the creation of documents with live code
 - **Matplotlib** - a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 - **PyTorch** - an open source machine learning library
 - **Pickle** - the standard way of serializing objects in Python.
